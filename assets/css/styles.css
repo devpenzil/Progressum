@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.are-you {
+  background-image: linear-gradient(to bottom,#ffffff 50%, #4c4c9d 50%);
+}
+
